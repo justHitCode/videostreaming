@@ -1,0 +1,4 @@
+# platform :ios, '9.0' use_frameworks!
+target 'OpenLive' do
+ pod 'AgoraRtcEngine_iOS'
+end
